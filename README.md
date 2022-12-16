@@ -1,6 +1,3 @@
-# portifolio-teste
-Teste para o site de capacitor
+# TCC2022-AnalogConvert-Selector
 
-## Tarefas
-
-O controle das tarefas desse projeto será realizado no GitHub
+Codigo para ESP32 e ESP8266
